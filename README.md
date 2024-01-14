@@ -1,1 +1,1 @@
-# project1
+calculator using HTML CSS and JAVASCRIPT 
